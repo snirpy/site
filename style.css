@@ -144,7 +144,11 @@ table.preparation p.numero {
 table.preparation td {
     vertical-align: top;
 }
-
+a 
+{
+    text-decoration:none;
+    color:black;
+}
 table.preparation td.preparation_etape {
     font-size: 14px;
     padding-left: 10px;
